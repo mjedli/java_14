@@ -21,6 +21,8 @@ public class Records {
 	
 	/**
 	 * @param args
+	 * 
+	 * Use record
 	 */
 	public static void main(String[] args) {
 		

@@ -11,6 +11,9 @@ public class Instanceof {
 
 	/**
 	 * @param args
+	 * 
+	 * Using instanceof Pattern Matching
+	 * 
 	 */
 	public static void main(String[] args) {
 		
