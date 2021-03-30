@@ -21,12 +21,12 @@ public class NullPointerExceptions {
 		sb.append("test").read();
 		
 		/*
-		 * Exception in thread "main" java.lang.Error: Unresolved compilation problems: 
-	Syntax error, insert "( )" to complete ClassInstanceCreationExpression
-	Syntax error, insert ";" to complete BlockStatements
-	The method read() is undefined for the type StringBuilder
+		 * 	Exception in thread "main" java.lang.Error: Unresolved compilation problems: 
+			Syntax error, insert "( )" to complete ClassInstanceCreationExpression
+			Syntax error, insert ";" to complete BlockStatements
+			The method read() is undefined for the type StringBuilder
 
-	at java_14/java_14.All.main(All.java:19)
+			at java_14/java_14.All.main(All.java:19)
 		 */
 		
 
