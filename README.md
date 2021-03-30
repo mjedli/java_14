@@ -6,4 +6,4 @@
     JEP 368 : Text Blocks (Second Preview)
 
 
-To use Records in Eclipse, you should use JDK 15 in your project and you should enabling Preview Features
+To use Records in Eclipse Version: 2020-12 (4.18.0), you should use JDK 15 in your project and you should enabling Preview Features
