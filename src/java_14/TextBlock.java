@@ -49,12 +49,12 @@ public class TextBlock {
                 test 3 \s
                 """;
 		
-		System.out.println(text2); // test test 2 test 3
+		System.out.println(text2);
 		
 		/*
 			test  
-test 2  
-test 3 
+			test 2  
+			test 3 
 		 */
 
 	}
