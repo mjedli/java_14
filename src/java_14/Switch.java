@@ -41,14 +41,14 @@ public class Switch {
 		
 		// java 13 14 introduction of yield 
 
-		switch(s) {
-			case "test" :
+		String message = switch(s) {
+			case "test":
 					System.out.println("go");
-					yield 1;
+					yield "1";
 			 default:     
 				 	System.out.println("go");
-				 	yield 2;
-		}
+				 	yield "2";
+		};
 
 	}
 
