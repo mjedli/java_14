@@ -23,7 +23,7 @@ public class Switch {
 		
 		switch(s) {
 			case "test" :
-					System.out.println("go");       
+					System.out.println("go");  // go     
 					break;
 			 default:       
 			       	System.out.println("try again!");
@@ -34,7 +34,7 @@ public class Switch {
 		
 		switch(s) {
 			case "test" ->
-					System.out.println("go");       
+					System.out.println("go");    // go   
 			 default ->      
 			       	System.out.println("try again!");
 		}
@@ -43,7 +43,7 @@ public class Switch {
 
 		String message = switch(s) {
 			case "test":
-					System.out.println("go");
+					System.out.println("go");   //go
 					yield "1";
 			 default:     
 				 	System.out.println("go");
