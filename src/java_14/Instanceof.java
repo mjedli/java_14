@@ -23,14 +23,14 @@ public class Instanceof {
 		
 		if (Obj instanceof String) {    
 		    String s = (String) Obj; // use s
-		    System.out.println(s);
+		    System.out.println(s); // test
 		}
 
 		// after java 14
 		
 		if (Obj instanceof String s) {    
 			
-		    System.out.println(s);
+		    System.out.println(s); // test
 		}
 		
 
