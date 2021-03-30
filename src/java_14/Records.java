@@ -23,7 +23,7 @@ public class Records {
 	 * @param args
 	 */
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
+		
 		Operation o1 = new Operation(10);
 		System.out.println(o1.i()); // 10
 		System.out.println(o1.Operation(5)); // 5*(10+5) - 150
