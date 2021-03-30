@@ -26,6 +26,22 @@ public class TextBlock {
 	              """;
 		
 		System.out.println(html);
+		
+		/*
+		 <html>
+    		<body>
+        		<p>Hello, world</p>
+    		</body>
+		</html>
+		 */
+		
+		String text = """
+                test \
+                test 2 \
+                test 3 \
+                """;
+		
+		System.out.println(text); // test test 2 test 3
 
 	}
 
