@@ -26,8 +26,8 @@ public class Switch {
 					System.out.println("go");  // go     
 					break;
 			 default:       
-			       	System.out.println("try again!");
-			        break;
+				 System.out.println("try again!");
+				 break;
 		}
 		
 		// java 12
@@ -36,7 +36,7 @@ public class Switch {
 			case "test" ->
 					System.out.println("go");    // go   
 			 default ->      
-			       	System.out.println("try again!");
+			 	System.out.println("try again!");
 		}
 		
 		// java 13 14 introduction of yield 
@@ -49,6 +49,8 @@ public class Switch {
 				 	System.out.println("go");
 				 	yield "2";
 		};
+		
+		System.out.println(message); // 1
 
 	}
 
