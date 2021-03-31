@@ -46,7 +46,7 @@ public class Switch {
 					System.out.println("go");   //go
 					yield "1";
 			 default:     
-				 	System.out.println("go");
+				 	System.out.println("try again!");
 				 	yield "2";
 		};
 		
